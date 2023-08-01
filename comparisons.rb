@@ -60,21 +60,22 @@ puts "is number_students less than or equal to 21?", number_students <= 21
 # Make sure YOU can explain it that way!
 
 puts 4 < 9
-#YOU DO: Explain.
+#YOU DO: This conditional statement or comparison is asking if the integer 4 is less than the integer 9, so it should evaluate as "true."
 
 books = 3
 puts 4 < books
-# YOU DO: Explain.
+# YOU DO: Line 65 of code is defining a variable "books" and storing the integer 3 as it's value. Line 66 is a comparison asking if the integer 4 is less than the value of the variable "books." Since the value of "books" is integer 3, this statement should evaluate as "false."
+
 
 friends = 6
 siblings = 2
 puts friends > siblings
-# YOU DO: Explain.
+# YOU DO: Lines 70 + 71 of code are defining the variables "friends" and "siblings," and storing the integers 6 and 2 as their respective values. Line 72 is using a comparison to ask if the value assigned to variable "friends" is great than the value assigned to variable "siblings." Since integer 6 is great than integer 2, this statement should evaluate as "true."
 
 attendees = 9
 meals = 8
 puts attendees != meals
-# YOU DO: Explain.
+# YOU DO: Lines 75 + 76 of code are defining the variables "attendees" and "meals," and storing the integers 9 and 8 as their respective values. Line 77 is using a comparison to ask if the value assigned to variable "attendees" is not equal to the value assigned to variable "meals." Since integer 9 is not equal to integer 8, this statement should evaluate as "true.".
 
 
 #-------------------

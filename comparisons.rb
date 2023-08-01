@@ -104,10 +104,10 @@ puts loves_to_play && loves_treats
 puts loves_to_play && loves_dog_park
 
 # Determine if the dog loves to play or loves the dog park
-loves_to_play || loves_dog_park
+puts loves_to_play || loves_dog_park
 
 # Determine if the dog loves to play and is a puppy
 puts loves_to_play && age <= 1
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER: My final code evaluated to "true." That makes sense because I determined that for a dog to be a puppy, it had to be the age one year or younger. So, since the variable "age" was assigned the integer 1, when I ran the comparison to see if the dog loved to play AND was 1 year of age or younger, that evaluated as "true" because both conditions were met.

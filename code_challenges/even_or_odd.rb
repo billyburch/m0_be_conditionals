@@ -2,6 +2,6 @@ number = 2
 
 if number.odd?
     puts "odd"   
-elsif 
+else 
     puts "even"
 end
